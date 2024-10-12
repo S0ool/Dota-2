@@ -10,6 +10,8 @@ I'm pretty sure that the requirements.txt file contains libraries that aren't be
 but I'm too lazy to figure out which ones are used and which ones aren't. 
 This file is the list of libraries for the Django (Python) backend. 
 To install them, just open the project folder and in the command line, type:
+
 pip install -r requirements.txt
+
 Make sure that in this case, the requirements.txt file should be at the same level 
 (meaning in the folder where you're located)
