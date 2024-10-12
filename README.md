@@ -1,3 +1,5 @@
+The foundation of the project was taken from the website https://www.dota2.com/home
+
 This is probably my first large project, and I completed almost the entire backend.
 Huge thanks to my friend https://github.com/Thrylouss,
 who helped me with this project and handled most of the frontend.
