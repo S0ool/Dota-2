@@ -15,3 +15,4 @@ pip install -r requirements.txt
 
 Make sure that in this case, the requirements.txt file should be at the same level 
 (meaning in the folder where you're located)
+p.s. dowload in chrome CORS unblocked and dowload pillow manually
